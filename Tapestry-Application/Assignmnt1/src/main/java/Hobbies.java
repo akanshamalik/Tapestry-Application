@@ -1,0 +1,6 @@
+
+public enum Hobbies {
+	DRAWING, GAMING, PLANTATION, MUSIC, YOGA, CYCLING
+
+	}
+
